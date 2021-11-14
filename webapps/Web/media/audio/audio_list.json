@@ -1,0 +1,68 @@
+{
+  "CODE": 200,
+  "data": [
+    {
+      "ID": 101,
+      "url": "media/audio/WeiLong.mp3",
+      "name": "为龙",
+      "author": "河图",
+      "albumPic": "media/audio/WeiLong.jpg"
+    },
+    {
+      "ID": 102,
+      "url": "media/audio/YiBaiWanGeKeNeng.mp3",
+      "name": "一百万个可能",
+      "author": "ChristineWelch",
+      "albumPic": "media/audio/YiBaiWanGeKeNeng.jpg"
+    },
+    {
+      "ID": 103,
+      "url": "media/audio/MingNianJinRi.mp3",
+      "name": "明年今日",
+      "author": "陈奕迅",
+      "albumPic": "media/audio/MingNianJinRi.jpg"
+    },
+    {
+      "ID": 104,
+      "url": "media/audio/QiFengLe.mp3",
+      "name": "起风了",
+      "author": "买辣椒也用券",
+      "albumPic": "media/audio/QiFengLe.jpg"
+    },
+    {
+      "ID": 105,
+      "url": "media/audio/PingFanZhiLu.mp3",
+      "name": "平凡之路",
+      "author": "朴树",
+      "albumPic": "media/audio/PingFanZhiLu.jpg"
+    },
+    {
+      "ID": 106,
+      "url": "media/audio/FenShouShuoAiNi.mp3",
+      "name": "分手说爱你",
+      "author": "王麟阿悄",
+      "albumPic": "media/audio/FenShouShuoAiNi.jpg"
+    },
+    {
+      "ID": 107,
+      "url": "media/audio/KouShiXinFei.mp3",
+      "name": "口是心非",
+      "author": "张雨生",
+      "albumPic": "media/audio/KouShiXinFei.jpg"
+    },
+    {
+      "ID": 108,
+      "url": "media/audio/PianAi.mp3",
+      "name": "偏爱",
+      "author": "张芸京",
+      "albumPic": "media/audio/PianAi.jpg"
+    },
+    {
+      "ID": 109,
+      "url": "media/audio/XinYueShenHua.mp3",
+      "name": "星月神话",
+      "author": "金莎",
+      "albumPic": "media/audio/XinYueShenHua.jpg"
+    }
+  ]
+}
